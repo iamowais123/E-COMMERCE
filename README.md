@@ -88,8 +88,8 @@ If you’d like to improve this project, feel free to fork it and create a pull 
 
 **Mohammad Owais**
 
-* GitHub: [@your-username](https://github.com/iamowais123)
-* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammad-owais-975784301)
+* GitHub: [https://github.com/iamowais123]
+* LinkedIn: [https://www.linkedin.com/in/mohammad-owais-975784301]
 
 ---
 
